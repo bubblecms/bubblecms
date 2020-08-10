@@ -3,7 +3,7 @@
 Bubblecms is a new Content Mangement System.
 =======
 Bubblecms is a new Content Mangement System. 
->>>>>>> 1e400c845f6df3bc4fb9a6ae299a2c9b1122b897
+
 
 Discord: https://discord.gg/uu9WVjM
 
