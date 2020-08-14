@@ -1,0 +1,67 @@
+{
+   "name": "bubblestem-beta",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "ts-node src/index.ts"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BubbleStem/bubblestem-beta.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/BubbleStem/bubblestem-beta/issues"
+   },
+   "homepage": "https://github.com/BubbleStem/bubblestem-beta#readme",
+   "devDependencies": {
+      "@types/react": "^16.9.34",
+      "@types/react-dom": "^16.9.7",
+      "eslint": "^6.8.0",
+      "source-map-loader": "^0.2.4",
+      "ts-loader": "^7.0.3",
+      "tslint": "^6.1.2",
+      "typescript": "3.3.3333",
+      "webpack": "^4.43.0",
+      "webpack-cli": "^3.3.11",
+      "ts-node": "3.3.0",
+      "@types/node": "^8.0.29"
+   },
+   "dependencies": {
+      "@ts-stack/markdown": "^1.2.0",
+      "@types/app-root-path": "^1.2.4",
+      "@types/body-parser": "^1.19.0",
+      "@types/compression": "^1.7.0",
+      "@types/cors": "^2.8.6",
+      "@types/dotenv": "^8.2.0",
+      "@types/express": "^4.17.6",
+      "apollo-server-express": "^2.15.0",
+      "app-root-path": "^3.0.0",
+      "axios": "^0.19.2",
+      "body-parser": "^1.19.0",
+      "bootstrap": "^4.4.1",
+      "compression": "^1.7.4",
+      "cookie-parser": "^1.4.5",
+      "cors": "^2.8.5",
+      "dotenv": "^8.2.0",
+      "ejs": "^3.1.2",
+      "express": "^4.17.1",
+      "graphql": "^15.1.0",
+      "http-errors": "^1.7.3",
+      "knex": "^0.21.1",
+      "nodemon": "^2.0.3",
+      "objection": "^2.2.0",
+      "pg": "^7.18.2",
+      "react": "^16.13.1",
+      "react-bootstrap": "^1.0.1",
+      "react-dom": "^16.13.1",
+      "reflect-metadata": "^0.1.10",
+      "ts-node": "^8.10.1",
+      "typeorm": "0.2.24",
+      "winston": "^3.2.1"
+   }
+}
