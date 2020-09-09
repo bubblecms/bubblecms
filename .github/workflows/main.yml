@@ -1,0 +1,8 @@
+name: BubbleCMS
+
+on: [push}
+
+jobs:
+  checks:
+      - name: GitGuardian 
+        uses: GitGuardian/gg-shield-action@v1.1.0
